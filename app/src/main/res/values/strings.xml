@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cuentafrag">Fragment Cuenta</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_lastname">Apellido</string>
+    <string name="btn_save">Guardar</string>
+</resources>
